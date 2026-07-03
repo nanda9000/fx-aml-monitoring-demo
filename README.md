@@ -58,18 +58,15 @@ Power BI connects to `vw_reporting_masked`, never the raw table. Counterparty na
 ### Page 1 — Compliance Overview
 > Cards showing total transactions, flagged count, and flagged %. Line chart of daily volume with flagged overlay. Donut chart breaking down flags by reason. Currency pair slicer for filtering.
 
-![Compliance Overview](screenshots/page1.png)
-
+![Compliance Overview](Page%201.png)
 ### Page 2 — Flagged Transaction Detail
 > Sortable table of all flagged transactions with conditional formatting on risk score (green/yellow/red). Bar chart showing flags by country. Flag type slicer for filtering by rule.
 
-![Flagged Transactions](screenshots/page2.png)
-
+![Flagged Transactions](Page%202.png)
 ### Page 3 — FX Activity Breakdown
 > Bar chart of transaction volume by currency pair. Donut charts showing distribution by channel and customer risk rating.
 
-![FX Activity](screenshots/page3.png)
-
+![FX Activity](Page%203.png)
 ---
 
 ## Project Files
